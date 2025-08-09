@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# Environments
+.venv/
+venv/
+env/
+
+# Editors/OS
+.DS_Store
+.idea/
+.vscode/
+
+# Tooling caches
+.cache/
+.cursor/
+
+# Playwright/Outputs
+playwright/.local-browsers/
+output_sitemaps/
+
