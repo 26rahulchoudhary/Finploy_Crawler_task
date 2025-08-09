@@ -1,4 +1,4 @@
-## Finploy Playwright Crawler (No DB)
+## Finploy Playwright Crawler
 
 A fast, headless Playwright crawler that discovers Finploy URLs and writes a standards-compliant XML sitemap.
 
